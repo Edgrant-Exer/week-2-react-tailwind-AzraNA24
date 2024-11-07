@@ -1,0 +1,6 @@
+x := 2
+z := x + y
+if y > 0 then
+    z := z + 1
+else
+    z := 0
